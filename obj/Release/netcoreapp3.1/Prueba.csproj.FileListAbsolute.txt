@@ -1,0 +1,15 @@
+C:\Users\arturobritez\source\repos\Prueba\Prueba\bin\Release\netcoreapp3.1\Prueba.exe
+C:\Users\arturobritez\source\repos\Prueba\Prueba\bin\Release\netcoreapp3.1\Prueba.deps.json
+C:\Users\arturobritez\source\repos\Prueba\Prueba\bin\Release\netcoreapp3.1\Prueba.runtimeconfig.json
+C:\Users\arturobritez\source\repos\Prueba\Prueba\bin\Release\netcoreapp3.1\Prueba.runtimeconfig.dev.json
+C:\Users\arturobritez\source\repos\Prueba\Prueba\bin\Release\netcoreapp3.1\Prueba.dll
+C:\Users\arturobritez\source\repos\Prueba\Prueba\bin\Release\netcoreapp3.1\Prueba.pdb
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.csprojAssemblyReference.cache
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.Form1.resources
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.csproj.GenerateResource.cache
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.AssemblyInfoInputs.cache
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.AssemblyInfo.cs
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.dll
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.pdb
+C:\Users\arturobritez\source\repos\Prueba\Prueba\obj\Release\netcoreapp3.1\Prueba.genruntimeconfig.cache
